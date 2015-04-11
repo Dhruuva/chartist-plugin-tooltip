@@ -24,14 +24,7 @@
 
     var defaultOptions = {
       currency: null
-      // showTooltips: true,
-      // tooltipEvents: ['mousemove', 'touchstart', 'touchmove'],
-      // labelClass: 'ct-label',
-      // labelOffset: {
-      //   x: 0,
-      //   y: -10
-      // },
-      // textAnchor: 'middle'
+     
     };
 
     Chartist.plugins = Chartist.plugins || {};
